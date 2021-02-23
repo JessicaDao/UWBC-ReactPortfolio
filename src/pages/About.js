@@ -7,15 +7,11 @@ import AboutCard from '../components/AboutCard';
 function About() {
   return (
     <div>
-
-
       <Container style={{ marginTop: 30 }}>
-
         <Row>
           <Col size="md-12">
           <div>
             <AboutCard />
-
         </div>
           </Col>
         </Row>
